@@ -1,2 +1,2 @@
-Password Manager App built using Next.js(Typescript,Tailwind and React) and Node/Express.
+Password Manager App built using React + Vite and Typescript Frontend and Backend with Node/Express
 Uses CRUD operations for Password Management.
